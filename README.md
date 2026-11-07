@@ -83,4 +83,13 @@ online-retail-portfolio/
 ## Résumé description
 
 Analyzed more than one million online retail transactions in R, performed data cleaning and customer RFM segmentation, and developed market, product, and time-series visualizations that produced actionable business recommendations.
+## Key Visualizations
 
+### Monthly Revenue Trend
+![Monthly revenue trend](outputs/monthly_revenue.png)
+
+### Top Products by Revenue
+![Top products by revenue](outputs/top_products_revenue.png)
+
+### Customer Segments
+![Customer clusters](outputs/customer_clusters.png)
